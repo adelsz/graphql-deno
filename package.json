@@ -1,0 +1,16 @@
+{
+  "name": "graphql-deno",
+  "version": "15.0.0",
+  "description": "Graphql-js ported to Deno",
+  "main": "mod.ts",
+  "author": "Adel <adel.m.salah@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-flow": "^7.9.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.0.0"
+  }
+}
