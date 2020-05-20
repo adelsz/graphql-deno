@@ -10,7 +10,7 @@ import {
   GraphQLSchema,
   GraphQLObjectType,
   GraphQLString,
-}  from "https://raw.githubusercontent.com/adelsz/graphql-deno/master/mod.ts";
+}  from "https://raw.githubusercontent.com/adelsz/graphql-deno/v15.0.0/mod.ts";
 ```
 
 You can test it in this repository by running:
